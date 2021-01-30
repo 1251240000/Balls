@@ -1,12 +1,15 @@
 # Processing 版球球大作战
 
+[English](https://github.com/1251240000/Balls/blob/main/README.MD)
+[简体中文](#)
+
 ## 描述
 
 - 由 `Processing 3.5.4` 实现球球大作战的一个简单实例
 
 - 操作： 上下左右+空格
 
-![404 Not Found](https://hrlu.cn:8799/share/assets/balls.png)
+![404 Not Found](https://github.com/1251240000/Balls/blob/main/screenshot.png)
 
 ## 运行
 
