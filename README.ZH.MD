@@ -1,6 +1,7 @@
 # Processing 版球球大作战
 
 [English](https://github.com/1251240000/Balls/blob/main/README.MD)
+|
 [简体中文](#)
 
 ## 描述
@@ -9,7 +10,7 @@
 
 - 操作： 上下左右+空格
 
-![404 Not Found](https://github.com/1251240000/Balls/blob/main/screenshot.png)
+![screenshot.png](https://github.com/1251240000/Balls/blob/main/screenshot.png)
 
 ## 运行
 
@@ -17,10 +18,18 @@
 
 2. 安装模块 `Minim 2.2.2`
 
-   - Java -> 添加模式
+   - 工具 -> 添加工具
 
    - Libraries -> 搜索 Minim
 
    - Install
 
-3. 或下载 [release]() 版本
+3. 或下载 [release](https://github.com/1251240000/Balls/releases) 版本
+
+### 补充
+
+1. 如果遇到 `OutOfMemoryError ...`
+   
+   - 文件 -> 偏好设定
+
+   - 增加最大内存至： `512MB` (推荐)
